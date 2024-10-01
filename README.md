@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there, It's Hemraj Kalathoki
 
 <!--
 **HemrajKalathoki/HemrajKalathoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-👋 Hi there! I'm a 7th-semester BCA student passionate about frontend, backend, and fullstack development. I enjoy crafting clean, efficient code and building user-friendly web applications.<br><br>💻 Tech Stack:<br><br>Frontend: HTML, CSS, JavaScript, React<br>Backend: Node.js, Express, PHP<br>Databases: MySQL, MongoDB<br>Tools: Git, GitHub<br>🚀 I’m constantly learning and exploring new technologies to expand my skills, and I'm always open to collaborating on exciting projects!<br><br>Feel free to check out my repositories and get in touch!
+👋 Hi there! I'm a web developer passionate about frontend, backend, and fullstack development. I enjoy crafting clean, efficient code and building user-friendly web applications.<br><br>💻 Tech Stack:<br><br>Frontend: HTML, CSS, JavaScript, React<br>Backend: Node.js, Express, PHP<br>Databases: MySQL, MongoDB<br>Tools: Git, GitHub<br>🚀 I’m constantly learning and exploring new technologies to expand my skills, and I'm always open to collaborating on exciting projects!<br><br>Feel free to check out my repositories and get in touch!
 
 
 ## 🌐 Socials:
