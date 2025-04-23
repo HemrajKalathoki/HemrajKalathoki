@@ -1,35 +1,73 @@
-## 👋 Hi there, It's Hemraj Kalathoki
+## 👋 Hello World, I'm Hemraj Kalathoki
 
-<!--
-**HemrajKalathoki/HemrajKalathoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 💫 About Me:
-👋 Hi there! I'm a web developer passionate about frontend, backend, and fullstack development. I enjoy crafting clean, efficient code and building user-friendly web applications.<br><br>💻 Tech Stack:<br><br>Frontend: HTML, CSS, JavaScript, React<br>Backend: Node.js, Express, PHP<br>Databases: MySQL, MongoDB<br>Tools: Git, GitHub<br>🚀 I’m constantly learning and exploring new technologies to expand my skills, and I'm always open to collaborating on exciting projects!<br><br>Feel free to check out my repositories and get in touch!
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ACRncwSK) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hemrajkalathoki.kalathokihrkt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kalathoki.hemraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemrajkalathoki) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25585611) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HR_Kalathoki) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HemrajKalathoki&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HemrajKalathoki&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HemrajKalathoki&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🌐 Full Stack Web Developer | 💻 Code Enthusiast | 🚀 Lifelong Learner
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HemrajKalathoki&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
+I'm a passionate developer who loves building efficient, scalable, and user-friendly web applications. Whether it's the frontend, backend, or full-stack development — I'm always eager to learn and explore new tech.
+
+- 🔭 Currently working on improving my MERN stack skills
+- 🌱 Learning: TypeScript, Angular, and SpringBoot basics
+- 👯 Looking to collaborate on open source and freelance projects
+- 💬 Ask me about web development, APIs, or learning strategies
+- ⚡ Fun Fact: I code with music on and chai by my side ☕
+
+---
+
+### 💼 Tech Stack
+
+#### 🖥️ Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap5](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### 🧠 Backend
+![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+#### 🗃️ Database
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### 🧰 Tools & Version Control
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+#### 🌐 Other Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HemrajKalathoki&theme=radical&show_icons=true&hide_border=false" alt="GitHub Stats" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HemrajKalathoki&theme=radical&hide_border=false" alt="GitHub Streak" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemrajKalathoki&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemrajkalathoki)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23007ACC.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Hemraj-Kalathoki/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/hemraj_kalathoki/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kalathoki.hemraj)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/hemrajkalathoki.kalathokihrkt)
+[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25585611)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HR_Kalathoki)
+
+---
+
+### 🧭 Visitor Count
+![Visitor Count](https://visitcount.itsvg.in/api?id=HemrajKalathoki&icon=0&color=0)
+
+---
+
+> 💡 *“Stay curious, keep building, and never stop learning!”*
