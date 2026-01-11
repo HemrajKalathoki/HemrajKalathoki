@@ -1,16 +1,16 @@
 ## 👋 Hello World, I'm Hemraj Kalathoki
 
-🌐 Full Stack Web Developer | 💻 Code Enthusiast | 🚀 Lifelong Learner
+🌐 Full-Stack Web Developer | ☕ Java & Web Enthusiast | 🚀 Continuous Learner
 
 ---
 
 ### 💫 About Me
-I'm a passionate developer who loves building efficient, scalable, and user-friendly web applications. Whether it's the frontend, backend, or full-stack development — I'm always eager to learn and explore new tech.
+I’m a Full-Stack Web Developer with hands-on experience building responsive, scalable, and database-driven web applications. I enjoy working across both frontend and backend, focusing on clean code, strong fundamentals, and real-world problem solving.
 
-- 🔭 Currently working on improving my MERN stack skills
-- 🌱 Learning: TypeScript, Angular, and SpringBoot basics
-- 👯 Looking to collaborate on open source and freelance projects
-- 💬 Ask me about web development, APIs, or learning strategies
+- 🔭 Working with Java, Spring Boot, React, PHP, and MySQL
+- 🌱 Strengthening REST APIs, MVC architecture, and backend logic
+- 👯 Open to collaboration, internships, and junior developer roles
+- 💬 Ask me about Java, Spring Boot, React, OOP, or databases
 - ⚡ Fun Fact: I code with music on and chai by my side ☕
 
 ---
@@ -23,11 +23,12 @@ I'm a passionate developer who loves building efficient, scalable, and user-frie
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap5](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### 🧠 Backend
-![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
 
 #### 🗃️ Database
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
