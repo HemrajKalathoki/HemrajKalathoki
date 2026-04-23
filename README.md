@@ -11,7 +11,7 @@ I’m a Full-Stack Web Developer with hands-on experience building responsive, s
 - 🌱 Strengthening REST APIs, MVC architecture, and backend logic
 - 👯 Open to collaboration, internships, and junior developer roles
 - 💬 Ask me about Java, Spring Boot, React, OOP, or databases
-- ⚡ Fun Fact: I code with music on and chai by my side ☕
+- ⚡ Fun Fact: I code with music on and Coffee by my side ☕
 
 ---
 
