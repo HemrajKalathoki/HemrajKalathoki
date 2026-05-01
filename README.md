@@ -7,9 +7,9 @@
 ### 💫 About Me
 I’m a Full-Stack Web Developer with hands-on experience building responsive, scalable, and database-driven web applications. I enjoy working across both frontend and backend, focusing on clean code, strong fundamentals, and real-world problem solving.
 
-- 🔭 Working with Java, Spring Boot, React, PHP, and MySQL
+- 🔭 Working with Java, Spring Boot, React, Tailwind CSS, ShadCN UI, PHP, and MySQL
 - 🌱 Strengthening REST APIs, MVC architecture, and backend logic
-- 👯 Open to collaboration, internships, and junior developer roles
+- 👯 Open to collaboration, Software Developer, and Full-Stack Engineer roles
 - 💬 Ask me about Java, Spring Boot, React, OOP, or databases
 - ⚡ Fun Fact: I code with music on and Coffee by my side ☕
 
@@ -57,8 +57,10 @@ I’m a Full-Stack Web Developer with hands-on experience building responsive, s
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemrajkalathoki)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://hemrajkalathoki.com.np)
-[![Portfolio dynamic](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://kalathoki-portfolio.vercel.app)
+### 🌐 Portfolio
+[![Main Portfolio](https://img.shields.io/badge/Visit_Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://profile.hemrajkalathoki.com.np/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://hemrajkalathoki.com.np/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23007ACC.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Hemraj-Kalathoki/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/hemraj_kalathoki/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kalathoki.hemraj)
