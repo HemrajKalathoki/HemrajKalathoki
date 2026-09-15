@@ -235,7 +235,7 @@ public class Hemraj {
 
 | Role | Company | When | What I shipped |
 |---|---|---|---|
-| **Full Stack Software Developer** | Autaway Pvt. Ltd. | Apr 2026 – Present | PayPal payments, Auth0 IAM, 30+ REST APIs and a transactional email pipeline for **BookStreet**, a live book marketplace |
+| **Full Stack Software Developer** | Autaway Pvt. Ltd. | Apr 2026 – Present | PayPal payments, Auth0 IAM, Multiple Live REST APIs and a transactional email pipeline for **BookStreet**, a live book marketplace |
 | **Software Developer** | Artova Solutions Pvt. Ltd. | Sep 2024 – Feb 2026 | Spring Boot backend services and REST APIs, MySQL query optimisation, API contract design with frontend and QA |
 | **Software Developer Intern** | Artova Solutions Pvt. Ltd. | Jun 2024 – Aug 2024 | Backend modules in Spring Boot and MySQL, full SDLC within an agile team |
 
