@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,50:1572B6,100:61DAFB&height=200&section=header&text=Hemraj%20Kalathoki&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%E2%80%A2%20Java%20%2B%20Spring%20Boot%20%2B%20React&descAlignY=55&descSize=18" width="100%" alt="Hemraj Kalathoki" />
 
 <a href="https://profile.hemrajkalathoki.com.np/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=6DB33F&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Spring+Boot+%7C+React+%7C+TypeScript+%7C+PostgreSQL;I+ship+real+products%2C+not+just+demos;Clean+architecture+over+clever+code" alt="What I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=6DB33F&center=true&vCenter=true&width=760&lines=Backend-Focused+Full+Stack+Developer+%F0%9F%87%B3%F0%9F%87%B5;2.5%2B+years+shipping+production+Java+systems;Spring+Boot+%7C+React+%7C+PostgreSQL+%7C+Docker+%7C+AWS;I+ship+real+products%2C+not+just+demos" alt="What I do" />
 </a>
 
 <br/>
@@ -19,38 +19,46 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** from Nepal who enjoys the unglamorous parts of software — schema design, auth flows, transaction boundaries, and the code that still has to be correct at 3 a.m. Most of my time goes into **Java / Spring Boot** on the backend and **React + TypeScript** on the frontend.
+I'm a **backend-focused Full Stack Developer** from Kathmandu with **2.5+ years of production experience** building and shipping Java / Spring Boot systems end to end.
 
-I care less about how many frameworks I can name and more about whether the thing I built is still standing under real users.
+Right now I own backend development for **BookStreet** at Autaway — a live digital book marketplace where I've shipped a full **PayPal payments integration**, **Auth0** identity and access control, and **30+ REST APIs**. On my own time I built **[Arthova](https://arthova.app)** single-handedly: 19 feature modules, live in production on AWS.
+
+I enjoy the unglamorous parts — schema design, auth flows, transaction boundaries, and the code that still has to be correct at 3 a.m.
 
 ```java
 public class Hemraj {
 
-    String   role      = "Full-Stack Developer";
-    String   location  = "Nepal 🇳🇵";
-    String[] coreStack = { "Java", "Spring Boot", "React", "TypeScript", "PostgreSQL", "MySQL" };
+    String   role       = "Full Stack Software Developer @ Autaway";
+    String   location   = "Kathmandu, Nepal 🇳🇵";
+    String   experience = "2.5+ years in production";
 
-    String   building  = "Arthova — personal finance + community platform";
-    String   learning  = "System design, AWS, production observability";
-    String   openTo    = "Full-Stack / Backend Engineer roles & collaborations";
+    String[] coreStack  = { "Java", "Spring Boot", "React", "TypeScript",
+                            "PostgreSQL", "Redis", "Docker", "AWS" };
 
-    String   principle = "Make it correct, then make it fast, then make it pretty.";
-    boolean  coffee    = true; // always
+    String   shipped    = "PayPal payments · Auth0 IAM · 30+ REST APIs";
+    String   building   = "Arthova — finance + community platform (solo, live)";
+    String   grinding   = "700+ LeetCode problems in Java";
+
+    String   principle  = "Make it correct, then make it fast, then make it pretty.";
+    boolean  coffee     = true; // always
 }
 ```
 
 <table>
 <tr>
-<td>🔭</td><td><b>Currently building</b></td><td><a href="https://arthova.app">Arthova</a> — a full-stack fintech + social platform, live on AWS & Vercel</td>
+<td>🔭</td><td><b>Working on</b></td><td><b>BookStreet</b> @ Autaway — payments, identity & admin APIs on a live marketplace</td>
 </tr>
 <tr>
-<td>🌱</td><td><b>Learning</b></td><td>System design, caching strategies, cloud deployment & observability</td>
+<td>🚀</td><td><b>Building solo</b></td><td><a href="https://arthova.app">Arthova</a> — 19-module finance + community platform, live on AWS</td>
 </tr>
 <tr>
-<td>💬</td><td><b>Ask me about</b></td><td>Java, Spring Boot, REST API design, React, relational databases</td>
+<td>💬</td><td><b>Ask me about</b></td><td>Spring Boot architecture, REST API design, payment integrations, PostgreSQL</td>
 </tr>
 <tr>
-<td>🤝</td><td><b>Open to</b></td><td>Full-Stack / Backend Engineer roles and open-source collaboration</td>
+<td>🧠</td><td><b>Algorithms</b></td><td>700+ LeetCode problems solved in Java · 🥇 1st place, LearnYard HackerRank contest</td>
+</tr>
+<tr>
+<td>🤝</td><td><b>Open to</b></td><td>Full-Stack / Backend Engineer roles — Kathmandu or remote</td>
 </tr>
 <tr>
 <td>⚡</td><td><b>Fun fact</b></td><td>I code with music on and coffee within arm's reach ☕</td>
@@ -69,23 +77,24 @@ public class Hemraj {
 <img src="https://img.shields.io/badge/Scale-Production_Grade-FF9900?style=for-the-badge&labelColor=0d1117" alt="Scale" />
 </div>
 
-> Multi-account banking, income / expense / budget / goal tracking, analytics, a **real-time social + messaging layer**, and a full admin back office — built to production standards, not prototype standards.
+> **Architected, built and deployed single-handedly.** 19 feature-sliced modules covering multi-account banking, income / expense / budget / goal tracking, analytics, a **real-time social + messaging layer**, and a full admin back office — built to production standards, not prototype standards.
 
 | Layer | Details |
 |---|---|
 | **Backend** | Spring Boot 3.5 · Java 21 · PostgreSQL · Redis · Flyway migrations · MapStruct |
-| **Frontend** | React 18 · TypeScript · Vite · TanStack Query · Tailwind CSS · shadcn/ui |
-| **Real-time** | STOMP over SockJS — 1:1 & group chat, live notifications |
+| **Frontend** | React 18 · TypeScript · Vite · TanStack Query · Zustand · Tailwind CSS · shadcn/ui |
+| **Real-time** | WebSocket over STOMP / SockJS — 1:1 & group chat, live notifications |
 | **Security** | JWT access/refresh in `HttpOnly` cookies · `SameSite` CSRF defence · role-gated portals · rate limiting |
-| **Infra** | Docker → GHCR → GitHub Actions CI/CD → **AWS EC2**, frontend on **Vercel** |
-| **Design** | Feature-based vertical slices · service-layer transaction boundaries · migration-owned schema |
+| **Infra** | Docker + docker-compose → GitHub Actions CI/CD → **AWS EC2** behind **Nginx** with SSL |
+| **Design** | Feature-sliced vertical architecture · service-layer transaction boundaries · migration-owned schema |
 
 **Engineering highlights**
 
 - 🔐 Cookie-based auth with refresh rotation across three role-gated portals (`USER` / `SUB_ADMIN` / `SUPER_ADMIN`)
 - ⚡ Page-scoped aggregation endpoints that eliminate N+1 queries and payload over-fetching
+- 🔌 Realtime connection lifecycle handled properly — reconnection, subscription management, delivery guarantees
 - 📴 Offline-capable, idempotent sync protocol designed to be shared with a future native mobile client
-- 🚢 Zero-touch deploys — every merge to `main` builds, pushes and rolls over the running container
+- 🚢 Zero-touch deploys — every push to `main` builds, tests, ships and rolls over the running container
 
 <br/>
 
@@ -96,21 +105,22 @@ public class Hemraj {
 <img src="https://img.shields.io/badge/Type-Full--Stack_SPA-6DB33F?style=for-the-badge&labelColor=0d1117" alt="Type" />
 </div>
 
-> Not a static template — a **real full-stack application**. A React single-page frontend talking to a **Spring Boot REST API** with **MySQL** behind it, so every project, skill and message is stored and served from the database instead of hardcoded in the markup.
+> Not a static template — a **self-managed full-stack application**. Spring Boot REST APIs serve projects, blogs and certificates through a **secure admin dashboard**, so I update my own portfolio from a UI instead of editing markup and redeploying.
 
 | Layer | Details |
 |---|---|
-| **Frontend** | React · JavaScript · responsive, component-driven UI |
-| **Backend** | Java · Spring Boot · REST API · layered service architecture |
-| **Database** | MySQL · JPA / Hibernate persistence |
+| **Frontend** | React · Tailwind CSS · responsive, component-driven UI |
+| **Backend** | Java · Spring Boot · REST APIs · layered service architecture |
+| **Database** | MySQL · normalised schema · JPA / Hibernate |
+| **Security** | JWT authentication with role-based access control (RBAC) |
 | **Deployment** | Custom domain, live in production |
 
 **Why it's built this way**
 
-- 🗄️ **Content is data, not markup** — projects and skills come from MySQL, so the site updates without a redeploy
-- 📬 **Contact form backed by a real API** — submissions are validated server-side and persisted, not handed to a third-party form service
+- 🔐 **Secure admin dashboard** — JWT auth with RBAC guarding every content-management endpoint
+- 🗄️ **Content is data, not markup** — projects, blogs and certificates live in MySQL over a normalised schema
+- 📬 **Dual-channel contact form** — submissions persist to MySQL *and* dispatch email via Web3Forms, so nothing is lost if either path fails
 - 🧱 **Proper layering** — controller → service → repository, the same structure I use on production work
-- 📱 **Responsive by default** — built mobile-first, works from phone to desktop
 
 <div align="center">
 <a href="https://profile.hemrajkalathoki.com.np/"><b>→ Visit the live site</b></a>
@@ -133,7 +143,7 @@ public class Hemraj {
 | Project | What it is | Stack |
 |---|---|---|
 | **[Company Incorporation Tool](https://github.com/HemrajKalathoki/company-incorporation-tool)** | Guided workflow tool for company registration paperwork | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **[BazaarHub](https://github.com/HemrajKalathoki/BazaarHub)** | E-commerce marketplace build | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) |
+| **[BazaarHub](https://github.com/HemrajKalathoki/BazaarHub)** | E-commerce backend — catalog, cart, orders, auth on Spring Boot MVC | ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | **[HRFoodHouse](https://github.com/HemrajKalathoki/HRFoodHouse)** | Restaurant ordering system (BCA 4th semester project) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | **[Coding Samurai Internship](https://github.com/HemrajKalathoki/CODING-SAMURAI-INTERNSHIP-TASK)** | Java internship task solutions | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 | **[WeatherApp](https://github.com/HemrajKalathoki/WeatherApp)** | Live weather lookup against a public API | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
@@ -221,11 +231,27 @@ public class Hemraj {
 
 ---
 
+## 💼 Where I've Worked
+
+| Role | Company | When | What I shipped |
+|---|---|---|---|
+| **Full Stack Software Developer** | Autaway Pvt. Ltd. | Apr 2026 – Present | PayPal payments, Auth0 IAM, 30+ REST APIs and a transactional email pipeline for **BookStreet**, a live book marketplace |
+| **Software Developer** | Artova Solutions Pvt. Ltd. | Sep 2024 – Feb 2026 | Spring Boot backend services and REST APIs, MySQL query optimisation, API contract design with frontend and QA |
+| **Software Developer Intern** | Artova Solutions Pvt. Ltd. | Jun 2024 – Aug 2024 | Backend modules in Spring Boot and MySQL, full SDLC within an agile team |
+
+🎓 **BCA**, Ambikeshwori Campus, Dang — CGPA **3.53 / 4.0**
+
+---
+
 ## 🧩 Problem Solving
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Hemraj-Kalathoki/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<b>700+ problems solved in Java</b> · 🥇 <b>1st place</b> — HackerRank contest organised by LearnYard
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/Hemraj-Kalathoki/"><img src="https://img.shields.io/badge/LeetCode-700%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="https://www.geeksforgeeks.org/user/hemraj_kalathoki/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 <a href="https://stackoverflow.com/users/25585611"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
 
@@ -242,7 +268,7 @@ The fastest way to reach me is email — I reply to all of them.
 
 <br/>
 
-<a href="mailto:kalathoki.dev@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:hemraj.kalathoki3@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://linkedin.com/in/hemrajkalathoki"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://profile.hemrajkalathoki.com.np/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
