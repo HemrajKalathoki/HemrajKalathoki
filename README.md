@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,50:1572B6,100:61DAFB&height=200&section=header&text=Hemraj%20Kalathoki&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%E2%80%A2%20Java%20%2B%20Spring%20Boot%20%2B%20React&descAlignY=55&descSize=18" width="100%" alt="Hemraj Kalathoki" />
 
 <a href="https://profile.hemrajkalathoki.com.np/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=6DB33F&center=true&vCenter=true&width=760&lines=Backend-Focused+Full+Stack+Developer+%F0%9F%87%B3%F0%9F%87%B5;2.5%2B+years+shipping+production+Java+systems;Spring+Boot+%7C+React+%7C+PostgreSQL+%7C+Docker+%7C+AWS;I+ship+real+products%2C+not+just+demos" alt="What I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=6DB33F&center=true&vCenter=true&width=760&lines=Backend-Focused+Full+Stack+Developer+%F0%9F%87%B3%F0%9F%87%B5;3%2B+years+shipping+production+Java+systems;Spring+Boot+%7C+React+%7C+PostgreSQL+%7C+Docker+%7C+AWS;I+ship+real+products%2C+not+just+demos" alt="What I do" />
 </a>
 
 <br/>
