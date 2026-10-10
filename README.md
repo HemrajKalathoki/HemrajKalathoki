@@ -19,9 +19,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a **backend-focused Full Stack Developer** from Kathmandu with **2.5+ years of production experience** building and shipping Java / Spring Boot systems end to end.
+I'm a **backend-focused Full Stack Developer** from Kathmandu with almost **3+ years of production experience** building and shipping Java / Spring Boot systems end to end.
 
-Right now I own backend development for **BookStreet** at Autaway — a live digital book marketplace where I've shipped a full **PayPal payments integration**, **Auth0** identity and access control, and **30+ REST APIs**. On my own time I built **[Arthova](https://arthova.app)** single-handedly: 19 feature modules, live in production on AWS.
+Right now I own backend development for **BookStreet** at Autaway — a live digital book marketplace where I've shipped a full **PayPal payments integration**, **Auth0** identity and access control, and **Multiples REST APIs**. On my own time I built **[Arthova](https://arthova.app)** single-handedly: 19 feature modules, live in production on AWS.
 
 I enjoy the unglamorous parts — schema design, auth flows, transaction boundaries, and the code that still has to be correct at 3 a.m.
 
@@ -30,12 +30,12 @@ public class Hemraj {
 
     String   role       = "Full Stack Software Developer @ Autaway";
     String   location   = "Kathmandu, Nepal 🇳🇵";
-    String   experience = "2.5+ years in production";
+    String   experience = "3+ years in production";
 
     String[] coreStack  = { "Java", "Spring Boot", "React", "TypeScript",
                             "PostgreSQL", "Redis", "Docker", "AWS" };
 
-    String   shipped    = "PayPal payments · Auth0 IAM · 30+ REST APIs";
+    String   shipped    = "PayPal payments · Auth0 IAM · Multiple REST APIs";
     String   building   = "Arthova — finance + community platform (solo, live)";
     String   grinding   = "700+ LeetCode problems in Java";
 
